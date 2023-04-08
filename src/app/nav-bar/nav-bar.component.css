@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #a0d40e; /* Replace with your desired color */    
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.brand-logo img{
+    height: auto;
+    width: 11%;
+    margin-left: 10px;  
+}
